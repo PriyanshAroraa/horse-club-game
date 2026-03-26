@@ -39,3 +39,9 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# local duplicate model drops kept outside bundled assets
+/animated_rigged_horse_with_saddle.glb
+/toon_horse_with_saddle_rigged_animated.glb
+/race_track_stadium.glb
+/low_poly_man_-_rigged.glb
